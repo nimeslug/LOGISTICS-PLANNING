@@ -1,0 +1,9 @@
+Customer Locations and Addresses:
+Customer 1: (6, 5) Address: [000000D8F02FF7D8]
+Customer 2: (5, 2) Address: [000000D8F02FF7E0]
+Customer 3: (9, 9) Address: [000000D8F02FF7E8]
+Customer 4: (5, 6) Address: [000000D8F02FF7F0]
+Customer 5: (3, 1) Address: [000000D8F02FF7F8]
+
+
+Total Cost: 1418

@@ -1,0 +1,3 @@
+﻿  LOGISTICS-PLANNING.cpp
+C:\Users\glsmn\source\repos\LOGISTICS-PLANNING\LOGISTICS-PLANNING.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LOGISTICS-PLANNING.vcxproj -> C:\Users\glsmn\source\repos\LOGISTICS-PLANNING\x64\Debug\LOGISTICS-PLANNING.exe
